@@ -57,7 +57,7 @@ Users should be able to:
 
 ## Acknowledgments
 
-- Melvin Aguilar - [MelvinAguilar](https://github.com/MelvinAguilar) Line 28 of his [solution](https://github.com/MelvinAguilar/advice-generator-app/tree/main/assets/js) main.js file helped me in my solution
+- Melvin Aguilar - [MelvinAguilar](https://github.com/MelvinAguilar) Line 28 of his [solution's](https://github.com/MelvinAguilar/advice-generator-app/tree/main/assets/js) main.js file helped me in my solution
   ```js
   { method: 'GET', mode: 'cors', cache: 'no-cache' }
   ```
