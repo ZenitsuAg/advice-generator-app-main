@@ -88,5 +88,18 @@ img {
 .icon-container:active {
     transform: rotate(90deg);
     transition: .3s;
-    
+}
+
+.attribution { 
+    font-size: 0.4em; 
+    text-align: center;
+}
+
+.attribution a { 
+    color: var(--neon-green); 
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
 }

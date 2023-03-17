@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/advice-generator-app-using-fetch-api-and-advice-slip-api-Kccl6l-VdN)
+- Live Site URL: [GitHub Pages](https://zenitsuag.github.io/advice-generator-app-main/)
 
 ## My process
 
@@ -45,6 +45,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- Vanilla Javascript
 
 ### Useful resources
 
@@ -56,7 +57,7 @@ Users should be able to:
 
 ## Acknowledgments
 
-- Melvin Aguilar -[MelvinAguilar](https://github.com/MelvinAguilar) Line 28 of his javascript main.js file helped me in my solution
+- Melvin Aguilar - [MelvinAguilar](https://github.com/MelvinAguilar) Line 28 of his [solution](https://github.com/MelvinAguilar/advice-generator-app/tree/main/assets/js) main.js file helped me in my solution
   ```js
   { method: 'GET', mode: 'cors', cache: 'no-cache' }
   ```
